@@ -1,7 +1,8 @@
 # Template creation
 
 You want to create your own template? You don't need to directly contribute
-to the project. You can require them directly in the database.json config.
+to the project. You can require them directly in the 
+[database.json config](http://umigrate.readthedocs.org/en/latest/features/#external-drivers-templates).
 
 ## Base Template
 
