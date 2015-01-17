@@ -1,5 +1,6 @@
 # Configuring database.json
 
+```json
 {
    "dev": {
       "driver": "mysql",
@@ -34,6 +35,7 @@
       "db_persist": false
    }
 }
+```
 
 The configuration above contains some parameters, which are self exaplained
 or which have its own documentation in their own projects. E.g. js-beautify.
