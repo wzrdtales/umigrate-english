@@ -11,7 +11,7 @@ lists currently unsupported but planned features.
  * Functions
  * Triggers
  * Procedures
- * [Multi-DB-Typing](http://linkexplainingthis.com)
+ * [Multi-DB-Typing](http://umigrate.readthedocs.org/en/latest/features/#multi-db-typing)
  * Table content dumping
  * Partitions
  * Index Algorithms
