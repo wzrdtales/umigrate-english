@@ -3,7 +3,7 @@
 
 # Ultimate Migrate
 
-Umigrate is a extendable X Language and X Database Migration, Migration generation and Database difftool.
+Umigrate is an extendable X Language and X Database Migration, Migration generation and Database difftool.
 
 #Starter Guide
 
