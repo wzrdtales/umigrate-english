@@ -5,6 +5,13 @@
 
 Umigrate is a extendable X Language and X Database Migration, Migration generation and Database difftool.
 
+#Starter Guide
+
+Follow this path in the following order, to get known to umigrate:
+
+  1. [Configuration](http://umigrate.readthedocs.org/en/latest/usage/configuration/)
+  2. [Getting Started](http://umigrate.readthedocs.org/en/latest/usage/getting%20started/)
+
 ## Goals
 
  * Completely independent from the Database used (X Database)
