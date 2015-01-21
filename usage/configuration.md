@@ -11,7 +11,7 @@
       "database": "test",
       "multiStatements": true,
       "template": "db-migrate",
-      "filestring": "%action%_%filename%",
+      "filestring": "%action%_%filename%.js",
       "primary": true,
       "beautifier": "js-beautify",
       "beautifier_options":
