@@ -10,9 +10,32 @@ The types needs to be converted like the following:
 
     VARCHAR(LENGTH)->TEXT(LENGTH)
 
+
 # External Drivers/Templates
 
-External Drivers and templates are required via the following configuration:
+## Global
+
+External Drivers and templates are required via the following configuration if 
+they are global:
+
+```json
+{
+    "dev": {
+        "altDriver": "yourwishedumigratedriver",
+        "template": "yourwishedumigratetemplate"
+    }
+}
+```
+
+This name gets automatically resolved to `umigrate-yourwishedumigratetemplate`.
+
+**Also note:** To be able to require packages which are installed globally, 
+you need to have your **NODE_PATH** defined.
+
+## Non global
+
+External Drivers and templates are required via the following configuration if 
+they are not global:
 
 ```json
 {
