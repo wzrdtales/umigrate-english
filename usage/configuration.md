@@ -4,7 +4,7 @@
 {
    "dev": {
       "driver": "mysql",
-      "altDriver": "mariasql",
+      "altDriver": "mariadb",
       "host": "localhost",
       "user": "root",
       "password": "root",
