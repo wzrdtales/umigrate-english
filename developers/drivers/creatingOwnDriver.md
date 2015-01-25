@@ -28,3 +28,11 @@ To require the base driver, you need to do the following:
     $ npm install umigrate-db-basedriver --save
 
 After this you can require this base driver and inherit from it via `util`.
+
+# Example database driver
+
+The default driver is the perfect way for you to start developing your own 
+driver.
+
+You can find the driver 
+[here](https://github.com/wzrdtales/umigrate-mariadb).

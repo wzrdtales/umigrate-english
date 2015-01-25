@@ -28,3 +28,11 @@ To require the base template, you need to do the following:
     $ npm install umigrate-template-basedriver --save
 
 After this you can require this base template and inherit from it via `util`.
+
+# Example template
+
+The default template is the perfect way for you to start developing your own 
+template.
+
+You can find the template 
+[here](https://github.com/wzrdtales/umigrate-db-migrate).
