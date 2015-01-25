@@ -7,7 +7,7 @@ The global published drivers follow a name convention, which allows you to
 find all drivers by searching for `umigrate`.
 
 This would be simply this address:
-https://www.npmjs.com/search?q=umigrate
+[https://www.npmjs.com/search?q=umigrate](https://www.npmjs.com/search?q=umigrate)
 
 # Default Driver
 
